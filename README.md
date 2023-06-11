@@ -1,2 +1,2 @@
-# onEproperty
-Package for one electron properties.
+# response property
+Package for one electron response propertity.
